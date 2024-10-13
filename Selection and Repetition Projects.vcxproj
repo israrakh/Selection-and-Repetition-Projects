@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="file1.cpp" />
+    <ClCompile Include="file2.cpp" />
+    <ClCompile Include="output.cpp" />
     <ClCompile Include="Selection and Repetition Projects.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
