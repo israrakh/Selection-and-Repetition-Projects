@@ -1,3 +1,3 @@
 Barnes A
-Higgins B
+Higgins B 
 Johnson C

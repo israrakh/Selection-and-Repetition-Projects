@@ -15,9 +15,9 @@ int main()
     ifstream file2;
     ofstream outputFile;
 
-    file1.open("file1.cpp");
-    file2.open("file2.cpp");
-    outputFile.open("output.cpp");
+    file1.open("file1.txt");
+    file2.open("file2.txt");
+    outputFile.open("output.txt");
 
     // Declaring line1 and line2 as string
     string line1, line2;

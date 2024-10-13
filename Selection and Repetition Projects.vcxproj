@@ -127,10 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="file1.cpp" />
-    <ClCompile Include="file2.cpp" />
-    <ClCompile Include="output.cpp" />
     <ClCompile Include="Selection and Repetition Projects.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="file1.txt" />
+    <Text Include="file2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

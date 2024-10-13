@@ -18,14 +18,9 @@
     <ClCompile Include="Selection and Repetition Projects.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="file1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="file2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="output.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="file1.txt" />
+    <Text Include="file2.txt" />
   </ItemGroup>
 </Project>
